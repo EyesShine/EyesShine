@@ -1,4 +1,4 @@
-[![Header](https://github.com/EyesShine/EyesShine/blob/main/assets/header.gif)](https://t.me/EyesShinee)
+[![Header](https://github.com/EyesShine/EyesShine/blob/main/assets/header.jpg)](https://t.me/EyesShinee)
 
 ### Hi There 👋
 
